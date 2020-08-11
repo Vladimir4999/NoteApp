@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="edit_text_title">Title</string>
+    <string name="edit_text_description">Description</string>
+    <string name="text_priority">Priorety:</string>
+    <string name="save_menu_title">Save</string>
+    <string name="add_note_title">Add Note</string>
+    <string name="alert">Please insert a title and description</string>
+    <string name="delete_all_notes_menu_item">Delete all notes</string>
+</resources>
